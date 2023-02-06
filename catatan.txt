@@ -4,5 +4,5 @@ git add .
 git commit -m "tiga"
 git remote add origin https://gitlab.com/yannaelshofa/ukkspp.git
  git push -u origin main  
- git branch -m master main
+ git branch -m master main // pindah master ke main
  
